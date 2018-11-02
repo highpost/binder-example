@@ -20,9 +20,10 @@ spins up a Kubernetes cluster. When it's ready students can then create their
 own instances by visiting a URL with the following form:
 
 <div style="display: inline">
-https://mybinder.org/v2/gh/<i>user</i>/binder-example/master
+https://mybinder.org/v2/gh/<i>github-user</i>/binder-example/master
 </div>
 
 NB: if you need to view the Jupyter notebook locally, then go to the directory
-containing the notebook and run "jupyter notebook". This will launch a local
-web server and redirect your browser to a web page containing the notebook.
+containing the notebook and run <tt>jupyter notebook</tt>. This will launch
+a local web server and redirect your browser to a web page containing the
+notebook.
