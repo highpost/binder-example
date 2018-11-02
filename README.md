@@ -12,7 +12,7 @@ Deploying this GitHub repo to MyBinder.org:
 
 1. Go to https://mybinder.org
 2. Add the GitHub repo URL
-3. Press <i>Launch</i
+3. Press <i>Launch</i>
 
 The <i>binder-example</i> Binder will then be launched on the MyBinder.org site.
 This process can take a few minutes while it creates a Docker image and
