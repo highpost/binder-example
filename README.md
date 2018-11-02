@@ -1,4 +1,4 @@
-# Sample Jupyter Notebook for MyBinder
+# Sample Jupyter Notebook for MyBinder.org
 
 This repo includes a Jupyter Notebook named binder-example.ipynb
 which contains two cells:
