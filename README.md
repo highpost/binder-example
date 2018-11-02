@@ -23,3 +23,6 @@ own instances by visiting a URL with the following form:
 https://mybinder.org/v2/gh/<i>user</i>/binder-example/master
 </div>
 
+NB: if you need to view the Jupyter notebook locally, then go to the directory
+containing the notebook and run "jupyter notebook". This will launch a local
+web server and redirect your browser to a web page containing the notebook.
