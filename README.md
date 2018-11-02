@@ -4,7 +4,7 @@ This repo includes a Jupyter Notebook named binder-example.ipynb
 which contains two cells:
 
 * Use NumPy to load some matrices from a data file and use least squares
-to find a line equation to fit the data. Then plot the data and line equation.
+to find a line equation to fit the data. Then plot the data and the line equation.
 * Use SymPy to compose a function and find its derivative. Then plot
 the function and its derivative.
 
@@ -19,8 +19,8 @@ This process can take a few minutes while it creates a Docker image and
 spins up a Kubernetes cluster. When it's ready students can create their own
 instances by visiting a URL with the following form:
 
-<div style="display: inline">https://mybinder.org/v2/gh/<i>github-user</i>/binder-example/master</div>
-<p>
+https://<span></span>mybinder.org/v2/gh/<i>github-user</i>/binder-example/master
+
 NB: if you need to view the Jupyter notebook locally, then go to the directory
 containing the notebook and run <tt>jupyter notebook</tt>. This will launch
 a local web server and redirect your browser to a web page containing the
