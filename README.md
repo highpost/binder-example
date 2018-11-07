@@ -26,4 +26,4 @@ where <i>github-user</i> is the account holding the GitHub repo.
 NB: if you need to view the Jupyter notebook locally, then go to the directory
 containing the notebook and run <tt>jupyter notebook</tt>. This will launch
 a local web server and redirect your browser to a web page containing the
-notebook.
+notebooks in the current directory. You can also create notebooks from this web page.
