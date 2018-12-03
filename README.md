@@ -24,6 +24,6 @@ https://<span></span>mybinder.org/v2/gh/<i>github-user</i>/binder-example/master
 where <i>github-user</i> is the account holding the GitHub repo.
 
 NB: if you need to view the Jupyter notebook locally, then go to the directory
-containing the notebook and run <tt>jupyter notebook</tt>. This will launch
+containing the notebook and run <tt>jupyter lab</tt>. This will launch
 a local web server and redirect your browser to a web page containing the
 notebooks in the current directory. You can also create notebooks from this web page.
